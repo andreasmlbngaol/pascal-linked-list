@@ -296,6 +296,8 @@ begin
     end;
     if (start = nil) then begin
         start := myLinkedList2.start;
+        myLinkedList2.start :=  Nil;
+        exit;
     end;
     traversal := start;
     while(traversal^.next <> nil) do begin
