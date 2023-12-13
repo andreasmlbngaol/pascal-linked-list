@@ -8,11 +8,11 @@ Program simulasi operasi pada Linked List mulai dari Create, Insert, Delete, sam
 
 1. [Instalasi](#installation)
 2. [Penggunaan](#usage)
-3. [Create](#features)
-4. [Insert](#examples)
-5. [Delete](#contributing)
-6. [Conjugate](#license)
-7. [Exit]
+3. [Create](#create)
+4. [Insert](#insert)
+5. [Delete](#delete)
+6. [Conjugate](#conjugate)
+7. [Exit](#exit)
 
 ## Instalasi
 
