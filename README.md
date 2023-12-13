@@ -13,7 +13,7 @@ Program simulasi operasi pada Linked List mulai dari Create, Insert, Delete, sam
    - [Insert](#insert)
    - [Delete](#delete)
    - [Conjugate](#conjugate)
-8. [Exit](#exit)
+   - [Exit](#exit)
 
 ## Instalasi
 
