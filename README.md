@@ -14,7 +14,7 @@ Program simulasi operasi pada Linked List mulai dari Create, Insert, Delete, sam
 6. [Conjugate](#conjugate)
 7. [Exit](#exit)
 
-## Instalasi
+## Instalasi {#installation}
 
 Pastikan compiler [Free Pascal](https://www.freepascal.org/download.html) sudah terpasang di perangkat anda
 
@@ -44,7 +44,7 @@ Buka terminal dan arahkan ke tempat anda mengekstrak file dan masukkan perintah 
 fpc main.pas
 ```
 
-## Penggunaan
+## Penggunaan {#usage}
 
 ### Dengan Terminal
 
@@ -57,13 +57,13 @@ Buka lokasi file yang telah di-compile sebelumnya dan masukkan perintah berikut:
 
 Buka lokasi file yang telah di-compile sebelumnya di File Explorer dan jalankan file `main.exe`
 
-## Create
+## Create {#create}
 
 ***Buat Linked List Baru***
 
 Masukkan `[0]` untuk membuat linked list baru.
 
-## Insert
+## Insert {#insert}
 
 ***Sisip Nilai ke dalam Linked List***
 
@@ -89,7 +89,7 @@ Menyisip elemen menjadi elemen terkahir pada linked list.
 * User akan diminta memasukkan nilai sebelum nilai tersebut akan disisip.
 * Jika nilai ditemukan, maka akan memasukkan nilai setelahnya. Jika tidak, batal menyisip nilai.
 
-## Delete
+## Delete {#delete}
 
 ***Hapus Element dari Linked Lsit***
 
@@ -117,7 +117,7 @@ Menghapus elemen terakhir pada linked list.
 * User akan diminta memasukkan nilai sebelum elemen yang ingin disisip.
 * Jika nilai ditemukan, maka akan menghapus elemen setelahnya. Jika tidak, batal menghapus elemen.
 
-## Conjugate
+## Conjugate {#conjugate}
 
 ***Menggabungkan 2 linked list***
 
@@ -127,7 +127,7 @@ Menghapus elemen terakhir pada linked list.
 * User akan diminta memasukkan nomor urut linked lsit kedua yang ingin disambungkan.
 * Linked list kedua akan disambungkan ke linked list pertama, dan linked list kedua akan dikosongkan.
 
-## Exit
+## Exit {#exit}
 
 ***Keluar dari Program***
 
